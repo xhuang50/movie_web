@@ -37,7 +37,7 @@ public class MovieRatingApplication {
 	private ApiInfo metaInfo() {
 
 		ApiInfo apiInfo=new ApiInfo("Movie Rating Api",
-				"User Api methods", "0.1",
+			 	"User Api methods", "0.1",
 				"Terms of Service",
 				new Contact("Antra Inc","http://www.antra.com","dawei.zhuang@antra.com"),
 				"License for User Details ", "Url of user", Collections.EMPTY_LIST);

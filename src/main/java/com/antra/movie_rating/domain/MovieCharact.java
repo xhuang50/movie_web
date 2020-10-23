@@ -19,6 +19,4 @@ public class MovieCharact {
 	@Id
 	private Integer id;
 	private String name;
-
-
 }
